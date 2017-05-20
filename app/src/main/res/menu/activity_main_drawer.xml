@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_news"
+            android:icon="@drawable/ic_date_range_black_24dp"
+            android:title="Berita" />
+        <item
+            android:id="@+id/nav_announcement"
+            android:icon="@drawable/ic_announcement_black_24dp"
+            android:title="Pengumuman" />
+        <item
+            android:id="@+id/nav_splash"
+            android:icon="@drawable/ic_info_black_24dp"
+            android:title="Sekilas Informasi" />
+        <item
+            android:id="@+id/nav_schedule"
+            android:icon="@drawable/ic_event_black_24dp"
+            android:title="Agenda Kegiatan" />
+
+    </group>
+
+
+
+</menu>
